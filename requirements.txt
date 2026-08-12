@@ -1,0 +1,7 @@
+streamlit>=1.40
+google-genai>=1.0
+truststore>=0.10
+pypdf>=5.0
+pandas>=2.2
+python-dotenv>=1.0
+XlsxWriter>=3.2

@@ -1,0 +1,12 @@
+# Zdrojové soubory normalizovat na LF, binární nechat na pokoji.
+# Bez toho by git na Windows převedl konce řádků i uvnitř PDF a poškodil ho.
+* text=auto eol=lf
+
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.xlsx binary
+*.db   binary

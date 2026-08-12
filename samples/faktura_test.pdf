@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+5 0 obj
+<< /Length 774 >>
+stream
+BT /F1 10 Tf 50 780 Td 14 TL
+(FAKTURA - DANOVY DOKLAD c. 2024-0138) Tj T*
+() Tj T*
+(Dodavatel: Novak Consulting s.r.o.) Tj T*
+(ICO: 27082440    DIC: CZ27082440) Tj T*
+(Sokolovska 100, 186 00 Praha 8) Tj T*
+() Tj T*
+(Odberatel: Alfa Trading a.s.) Tj T*
+(ICO: 45274649) Tj T*
+() Tj T*
+(Datum vystaveni: 11.03.2024) Tj T*
+(Datum splatnosti: 25.03.2024) Tj T*
+(DUZP: 11.03.2024) Tj T*
+() Tj T*
+(Polozka                 Mnozstvi   Cena/ks    DPH    Celkem) Tj T*
+(Konzultace IT              10 h    1 000,00   21%   10 000,00) Tj T*
+(Analyza dat                 5 h    1 200,00   21%    6 000,00) Tj T*
+() Tj T*
+(Zaklad dane:      16 000,00 Kc) Tj T*
+(DPH 21%:           3 360,00 Kc) Tj T*
+(CELKEM K UHRADE:  19 360,00 Kc) Tj T*
+() Tj T*
+(Bankovni ucet: 2801234567/2010) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000309 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1134
+%%EOF
